@@ -1,0 +1,1 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDoes the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q element have CSS added via the inline method?\\E$"}
